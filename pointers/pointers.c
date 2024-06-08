@@ -7,5 +7,9 @@ int main(){
     calcularTriple(misnumeros,MAXNUM);
 
     //TODO: mostrar resultado
+
+    for(int i=0;i<MAXNUM;i++){
+        printf(misnumeros[i]);
+    }
     return 0;
 }

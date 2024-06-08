@@ -3,4 +3,10 @@
 
 //TODO: DEfine Struct
 //Struct's properties: Name, lastName and Age
+typedef struct{
+    char name[30];
+    char lastName[50];
+    int age;
+}Person;
+
 #endif
