@@ -16,6 +16,7 @@ Puedes encontrar ejemplos sobre:
 * Punteros.
 * Structs.
 * Uso de MakeFiles.
+* Ejemplo de calculadora (ver en ```soluciones```).
 
 En algunos ejemplos, hay apartados por hacer que pueden servir para prácticar. Revisa los comentarios que empiezan por ```TODO```.
 
